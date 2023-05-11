@@ -1,1 +1,806 @@
 # lesson.1
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proect 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <div class="nav-bar">
+
+
+                    <img src="lkk.jpg" alt="lkk">
+                    <ul>
+                        <li>
+                            <a href="#">About us</a>
+                        </li>
+                        <li>
+                            <a href="#">Services</a>
+                        </li>
+                        <li>
+                            <a href="#">Use cases</a>
+                        </li>
+                        <li>
+                            <a href="#">Pricing </a>
+                        </li>
+                        <li>
+                            <a href="#">Blog</a>
+                        </li>
+                        <li>
+                            <a class="reaquest-a-quote" href="#">Request a quote</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero-section">
+        <div class="container">
+            <div class="hero">
+                <div>
+                    <h1>
+                        Navigating the digital landscape for success
+                    </h1>
+                    <p>
+                        Our digital marketing agency helps businesses grow and succeed online through a range of
+                        services including SEO, PPC, social media marketing, and content creation.
+                    </p>
+                    <div>
+                        <button class="btn">
+                            Book a consultation
+                        </button>
+                    </div>
+                </div>
+                <div>
+                    <img src="hyy.jpg" alt="hyy">
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="company-logos">
+        <div class="container">
+            <div>
+                <img src="ab.png" alt="ab">
+                <img src="a1.png" alt="a1">
+                <img src="a2.png" alt="a2">
+                <img src="a3.png" alt="a3">
+                <img src="a4.png" alt="a4">
+                <img src="a5.png" alt="a5">
+            </div>
+        </div>
+    </section>
+
+    <section class="services-section">
+        <div class="container">
+
+            <div class="services-header">
+                <h2>Services</h2>
+                <p>At our digital marketing agency, we offer a range of services to <br> help businesses grow and
+                    succeed
+                    online. These services include:</p>
+            </div>
+            <div class="services">
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service1-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                                optimization
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service3-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                                optimization
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service2-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                                optimization
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <svg width="41" height="41" viewBox="0 0 41 41" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="20.5" cy="20.5" r="20.5" fill="#191A23" />
+                                <path
+                                    d="M11.25 24.701C10.5326 25.1152 10.2867 26.0326 10.701 26.75C11.1152 27.4674 12.0326 27.7133 12.75 27.299L11.25 24.701ZM30.7694 16.3882C30.9838 15.588 30.5089 14.7655 29.7087 14.5511L16.6687 11.0571C15.8685 10.8426 15.046 11.3175 14.8316 12.1177C14.6172 12.9179 15.0921 13.7404 15.8923 13.9548L27.4834 17.0607L24.3776 28.6518C24.1631 29.452 24.638 30.2745 25.4382 30.4889C26.2384 30.7033 27.0609 30.2284 27.2753 29.4282L30.7694 16.3882ZM12.75 27.299L30.0705 17.299L28.5705 14.701L11.25 24.701L12.75 27.299Z"
+                                    fill="#B9FF66" />
+                            </svg>
+
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service4-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service5-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                                optimization
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service6-img.png" alt="service 1 img">
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="happen">
+        <div class="container">
+            <div>
+                <div>
+                    <h3>
+                        Let’s make things happen
+                    </h3>
+                    <p>
+                        Contact us today to learn more about how our digital marketing services can help your business
+                        grow and succeed online.
+                    </p>
+                    <div>
+
+                        <button class="btn">
+                            Get your free proposal
+
+                        </button>
+                    </div>
+
+
+                </div>
+                <div>
+                    <img src="./images/happen-Illustration.png" alt="happpen Illustration">
+                </div>
+            </div>
+        </div>
+        <div class="case">
+            <div class="case-wrapper">
+                <div class="case-title">
+                    <h2>Case Studies</h2>
+                    <p>Explore Real-Life Examples of Our Proven Digital Marketing Success through Our Case Studies</p>
+                </div>
+                <div class="case-card">
+                    <div class="case-card-wrapper">
+                        <div class="card-text">
+                            <p>For a local restaurant, we implemented a targeted PPC campaign that resulted in a 50% increase in website traffic and a 25% increase in sales.</p>
+                            <div class="learn-more">
+                                <a href="#">Learn more <img src="./images/arrow-icon.png"></a>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <img src="./images/line.png">
+                        </div>
+                        <div class="card-text">
+                            <p>For a local restaurant, we implemented a targeted PPC campaign that resulted in a 50% increase in website traffic and a 25% increase in sales.</p>
+                            <div class="learn-more">
+                                <a href="#">Learn more <img src="./images/arrow-icon.png"></a>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <img src="./images/line.png">
+                        </div>
+                        <div class="card-text">
+                            <p>For a local restaurant, we implemented a targeted PPC campaign that resulted in a 50% increase in website traffic and a 25% increase in sales.</p>
+                            <div class="learn-more">
+                                <a href="#">Learn more <img src="./images/arrow-icon.png"></a>
+                            </div>
+                        </div>
+
+</div>
+                </div>
+            </div>
+       </div>
+       <div class="case">
+            <div class="case-wrapper">
+                <div class="case-title" style="padding-bottom: 30px; padding-top: 80px;">
+                    <h2>Our Working Process </h2>
+                    <p style="max-width: 280px;">Step-by-Step Guide to Achieving Your Business Goals</p>
+                </div>
+                <div style="background: #B9FF66;" class="accordion">
+                    <div style="padding: 50px 0;" class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>01</h1>
+                                <h2>Consultation</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/minus-icon.png">
+                            </div>
+                        </div>
+                        <div class="line">
+                            <span></span>
+                        </div>
+                        <div class="bottom-text">
+                            <p>During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>02</h1>
+                                <h2>Research and Strategy Development</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>03</h1>
+                                <h2>Implementation</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>04</h1>
+                                <h2>Monitoring and Optimization</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>05</h1>
+                                <h2>Reporting and Communication</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>06</h1>
+                                <h2>Continual Improvement</h2>
+                            </div>
+
+<div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+</body>
+
+</html><!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proect 2</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <div class="nav-bar">
+
+
+                    <img src="lkk.jpg" alt="lkk">
+                    <ul>
+                        <li>
+                            <a href="#">About us</a>
+                        </li>
+                        <li>
+                            <a href="#">Services</a>
+                        </li>
+                        <li>
+                            <a href="#">Use cases</a>
+                        </li>
+                        <li>
+                            <a href="#">Pricing </a>
+                        </li>
+                        <li>
+                            <a href="#">Blog</a>
+                        </li>
+                        <li>
+                            <a class="reaquest-a-quote" href="#">Request a quote</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero-section">
+        <div class="container">
+            <div class="hero">
+                <div>
+                    <h1>
+                        Navigating the digital landscape for success
+                    </h1>
+                    <p>
+                        Our digital marketing agency helps businesses grow and succeed online through a range of
+                        services including SEO, PPC, social media marketing, and content creation.
+                    </p>
+                    <div>
+                        <button class="btn">
+                            Book a consultation
+                        </button>
+                    </div>
+                </div>
+                <div>
+                    <img src="hyy.jpg" alt="hyy">
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="company-logos">
+        <div class="container">
+            <div>
+                <img src="ab.png" alt="ab">
+                <img src="a1.png" alt="a1">
+                <img src="a2.png" alt="a2">
+                <img src="a3.png" alt="a3">
+                <img src="a4.png" alt="a4">
+                <img src="a5.png" alt="a5">
+            </div>
+        </div>
+    </section>
+
+    <section class="services-section">
+        <div class="container">
+
+            <div class="services-header">
+                <h2>Services</h2>
+                <p>At our digital marketing agency, we offer a range of services to <br> help businesses grow and
+                    succeed
+                    online. These services include:</p>
+            </div>
+            <div class="services">
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service1-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                                optimization
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service3-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                                optimization
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service2-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                                optimization
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <svg width="41" height="41" viewBox="0 0 41 41" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="20.5" cy="20.5" r="20.5" fill="#191A23" />
+                                <path
+                                    d="M11.25 24.701C10.5326 25.1152 10.2867 26.0326 10.701 26.75C11.1152 27.4674 12.0326 27.7133 12.75 27.299L11.25 24.701ZM30.7694 16.3882C30.9838 15.588 30.5089 14.7655 29.7087 14.5511L16.6687 11.0571C15.8685 10.8426 15.046 11.3175 14.8316 12.1177C14.6172 12.9179 15.0921 13.7404 15.8923 13.9548L27.4834 17.0607L24.3776 28.6518C24.1631 29.452 24.638 30.2745 25.4382 30.4889C26.2384 30.7033 27.0609 30.2284 27.2753 29.4282L30.7694 16.3882ZM12.75 27.299L30.0705 17.299L28.5705 14.701L11.25 24.701L12.75 27.299Z"
+                                    fill="#B9FF66" />
+                            </svg>
+
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service4-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service5-img.png" alt="service 1 img">
+                </div>
+                <div class="service-card">
+                    <div>
+                        <h3>
+                            <span>
+
+                                Search engine
+                            </span>
+                            <br>
+                            <span>
+
+                                optimization
+                            </span>
+                        </h3>
+                        <a href="#">
+                            <img src="./images/arrow.svg" alt="arrow">
+                            <p>
+                                Learn more
+                            </p>
+                        </a>
+                    </div>
+                    <img src="./images/services/service6-img.png" alt="service 1 img">
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="happen">
+        <div class="container">
+            <div>
+                <div>
+                    <h3>
+                        Let’s make things happen
+                    </h3>
+                    <p>
+                        Contact us today to learn more about how our digital marketing services can help your business
+                        grow and succeed online.
+                    </p>
+                    <div>
+
+                        <button class="btn">
+                            Get your free proposal
+
+                        </button>
+                    </div>
+
+
+                </div>
+                <div>
+                    <img src="./images/happen-Illustration.png" alt="happpen Illustration">
+                </div>
+            </div>
+        </div>
+        <div class="case">
+            <div class="case-wrapper">
+                <div class="case-title">
+                    <h2>Case Studies</h2>
+                    <p>Explore Real-Life Examples of Our Proven Digital Marketing Success through Our Case Studies</p>
+                </div>
+                <div class="case-card">
+                    <div class="case-card-wrapper">
+                        <div class="card-text">
+                            <p>For a local restaurant, we implemented a targeted PPC campaign that resulted in a 50% increase in website traffic and a 25% increase in sales.</p>
+                            <div class="learn-more">
+                                <a href="#">Learn more <img src="./images/arrow-icon.png"></a>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <img src="./images/line.png">
+                        </div>
+                        <div class="card-text">
+                            <p>For a local restaurant, we implemented a targeted PPC campaign that resulted in a 50% increase in website traffic and a 25% increase in sales.</p>
+                            <div class="learn-more">
+                                <a href="#">Learn more <img src="./images/arrow-icon.png"></a>
+                            </div>
+                        </div>
+                        <div class="line">
+                            <img src="./images/line.png">
+                        </div>
+                        <div class="card-text">
+                            <p>For a local restaurant, we implemented a targeted PPC campaign that resulted in a 50% increase in website traffic and a 25% increase in sales.</p>
+                            <div class="learn-more">
+                                <a href="#">Learn more <img src="./images/arrow-icon.png"></a>
+                            </div>
+                        </div>
+
+</div>
+                </div>
+            </div>
+       </div>
+       <div class="case">
+            <div class="case-wrapper">
+                <div class="case-title" style="padding-bottom: 30px; padding-top: 80px;">
+                    <h2>Our Working Process </h2>
+                    <p style="max-width: 280px;">Step-by-Step Guide to Achieving Your Business Goals</p>
+                </div>
+                <div style="background: #B9FF66;" class="accordion">
+                    <div style="padding: 50px 0;" class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>01</h1>
+                                <h2>Consultation</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/minus-icon.png">
+                            </div>
+                        </div>
+                        <div class="line">
+                            <span></span>
+                        </div>
+                        <div class="bottom-text">
+                            <p>During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>02</h1>
+                                <h2>Research and Strategy Development</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>03</h1>
+                                <h2>Implementation</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>04</h1>
+                                <h2>Monitoring and Optimization</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>05</h1>
+                                <h2>Reporting and Communication</h2>
+                            </div>
+                            <div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion">
+                    <div class="accordion-wrapper">
+                        <div class="accordion-top">
+                            <div class="text">
+                                <h1>06</h1>
+                                <h2>Continual Improvement</h2>
+                            </div>
+
+<div class="icon">
+                                <img src="./images/plus.png">
+                            </div>
+    
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+</body>
+
+</html>
